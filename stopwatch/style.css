@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+
+.main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+   background-color: blue;
+    border: 1px solid red;
+    margin-top: 150px;
+    
+}
+.time{
+    text-align: center;
+
+}
+.digit{
+    font-size: 80px;
+    color: white;
+}
+.text{
+    font-size: 20px;
+    color: white;
+}
+.btn-container{
+    text-align: center;
+}
+.btn1{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: yellow
+}
+#reset{
+    background-color: brown;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+

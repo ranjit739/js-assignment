@@ -1,0 +1,42 @@
+
+body{
+    background-color: yellow;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+    padding: 40px;
+    flex-direction: column;
+}
+.main{
+  border: 1px solid red;  
+  
+  margin: 20px;
+  background-color: yellowgreen;
+
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+   height: 30px;
+   margin-top: 5px;
+    font-weight: bold;
+    border: 2px solid black;
+}
+.btn{
+   font-size: 20px;
+   font-weight: bold;
+   background-color: aqua;
+   padding: 10px; 
+}
+h1{
+background-color: blue;
+color: white;
+
+}
+

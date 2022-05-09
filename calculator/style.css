@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+}
+.container{
+border: 1px solid red;
+height: auto;
+width: 50%;
+margin-left: 20%;
+margin-top: 50px;
+background-color: yellow;
+}
+.fc{
+    justify-content: center;
+    text-align: center;
+
+}
+.screen{
+    font-weight: bold;
+    border: 2px solid black;
+    width: 300px;
+    font-size: 30px;
+}
+input{
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    font-weight: bold;
+    width: 60px;
+
+}
+.back{
+    width: auto;
+}
+.equal{
+    width: 150px;
+}
+h1{
+    color: white;
+    background-color: brown;
+    padding: auto;
+    font-weight: bold;
+    text-align: center;
+}
